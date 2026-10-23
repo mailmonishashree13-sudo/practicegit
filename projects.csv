@@ -1,0 +1,26 @@
+ProjectID,ProjectName,Department,StartDate,EndDate,Budget,Status
+101,ERP Migration,IT,10-01-2026,30-04-2026,850000,Completed
+102,Mobile App Development,IT,01-02-2026,15-07-2026,1200000,In Progress
+103,HR Portal Upgrade,HR,20-01-2026,31-03-2026,450000,Completed
+104,Employee Training Program,HR,01-04-2026,30-06-2026,280000,Completed
+105,Financial Reporting Automation,Finance,15-03-2026,31-08-2026,900000,In Progress
+106,Budget Planning System,Finance,01-05-2026,30-09-2026,650000,In Progress
+107,Customer Support Portal,Customer Service,15-01-2026,31-05-2026,550000,Completed
+108,CRM Implementation,Sales,15-02-2026,15-08-2026,1100000,In Progress
+109,Digital Marketing Campaign,Marketing,01-03-2026,15-05-2026,375000,Completed
+110,Brand Website Redesign,Marketing,01-06-2026,31-10-2026,500000,In Progress
+111,Inventory Management System,Operations,05-01-2026,15-06-2026,780000,Completed
+112,Warehouse Automation,Operations,15-04-2026,30-11-2026,1500000,In Progress
+113,Cybersecurity Audit,IT,01-07-2026,15-09-2026,420000,In Progress
+114,Recruitment Automation,HR,10-07-2026,15-10-2026,350000,Not Started
+115,Tax Compliance System,Finance,15-06-2026,30-09-2026,600000,In Progress
+116,Customer Feedback Analysis,Customer Service,10-05-2026,31-07-2026,300000,Completed
+117,Sales Dashboard,Sales,01-08-2026,31-10-2026,475000,In Progress
+118,Social Media Analytics,Marketing,15-08-2026,15-11-2026,325000,Not Started
+119,Supply Chain Optimization,Operations,20-02-2026,20-09-2026,950000,In Progress
+120,Cloud Infrastructure Upgrade,IT,20-05-2026,15-12-2026,1350000,Not Started
+121,Performance Management System,HR,01-08-2026,01-12-2026,525000,Not Started
+122,Expense Management System,Finance,10-08-2026,30-11-2026,480000,Not Started
+123,Sales Territory Analysis,Sales,10-04-2026,30-06-2026,390000,Completed
+124,Service Quality Improvement,Customer Service,01-06-2026,30-09-2026,410000,In Progress
+125,Procurement Automation,Operations,01-07-2026,31-12-2026,875000,Not Started
